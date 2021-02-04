@@ -12,6 +12,10 @@ composer install
 
 3. Run /install
 
+## Screenshot
+
+![](https://g.top4top.io/p_18613h0e61.png)
+
 ## Copyright
 
 FarisCode
